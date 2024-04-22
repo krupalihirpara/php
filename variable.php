@@ -3,6 +3,5 @@
     echo $x;
     echo  "\r\n";
     $y='world';
-    $z="!";
-    echo "$x $y $z";
+    echo "$x $y";
 ?>
